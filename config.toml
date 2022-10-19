@@ -52,15 +52,21 @@ theme = ['hugo-theme-shell']
 
   description = """
   Hola! Mi nombre es Rafael Tovar. 
-  Trabajo como desarrollador y me entusiasma la música 
-  y la fotografía analógica. A veces escribo una newsletter.
+  Trabajo como desarrollador y 
+  me entusiasma la música y 
+  la fotografía analógica. 
+  A veces escribo una newsletter.
   
   ---
 
   Hi! My name is Rafael Tovar. 
-  I work like developer. I'm a fan of music 
-  and analog photography. Sometimes I write a newsletter 
+  I work like developer. 
+  I'm a fan of music and analog 
+  photography. 
+  Sometimes I write a newsletter 
   in spanish.
+
+  <3
   """
 
   # Note: If you want to use a Markdown file, you can use the following
