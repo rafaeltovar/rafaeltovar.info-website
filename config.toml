@@ -51,11 +51,16 @@ theme = ['hugo-theme-shell']
   # activityDelay = 5 : deprecated
 
   description = """
-  Hola! Mi nombre es Rafael Tovar. Trabajo como desarrollador y me entusiasma la música y la fotografía analógica. A veces escribo una newsletter.
+  Hola! Mi nombre es Rafael Tovar. 
+  Trabajo como desarrollador y me entusiasma la música 
+  y la fotografía analógica. A veces escribo una newsletter.
   
   ---
 
-  Hi! My name is Rafael Tovar. I work like developer. I'm a fan of music and analog photography. Sometimes I write a newsletter in spanish.
+  Hi! My name is Rafael Tovar. 
+  I work like developer. I'm a fan of music 
+  and analog photography. Sometimes I write a newsletter 
+  in spanish.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
