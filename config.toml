@@ -51,9 +51,11 @@ theme = ['hugo-theme-shell']
   # activityDelay = 5 : deprecated
 
   description = """
-  Hola! Soy Rafael Tovar.
+  Hola! Mi nombre es Rafael Tovar. Trabajo como desarrollador y me entusiasma la música y la fotografía analógica. A veces escribo una newsletter.
+  
+  ---
 
-  Aquí guardo algunas cosas que hago.
+  Hi! My name is Rafael Tovar. I work like developer. I'm a fan of music and analog photography. Sometimes I write a newsletter in spanish.
   """
 
   # Note: If you want to use a Markdown file, you can use the following
@@ -62,12 +64,12 @@ theme = ['hugo-theme-shell']
 
   [Params.Tree]
   use = true
-  folderName = "documents"
+  folderName = "resources"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
+    ["Code", "https://github.com/rafaeltovar/"],
     ["Photography", "https://rafaeltovar.tumblr.com/"],
     ["Playlist", "https://open.spotify.com/user/fitopaldi?si=3d2c8c3b2bb248b8"],
-    ["Code", "https://github.com/rafaeltovar/"],
-    ["Sr.Mayor_newsletter", "http://eepurl.com/hxIvpb"],
+    ["Newsletter", "http://eepurl.com/hxIvpb"],
 #    ["Docker", "/content/sr_mayor.md"],
   ]
