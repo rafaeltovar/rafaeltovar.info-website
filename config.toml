@@ -1,6 +1,7 @@
 baseURL = 'https://rafaeltovar.info/'
 languageCode = 'es-es'
 title = 'Rafael Tovar'
+theme = ['hugo-theme-shell']
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
@@ -68,5 +69,5 @@ title = 'Rafael Tovar'
     ["Playlist", "https://open.spotify.com/user/fitopaldi?si=3d2c8c3b2bb248b8"],
     ["Code", "https://github.com/rafaeltovar/"],
     ["Sr.Mayor_newsletter", "http://eepurl.com/hxIvpb"],
-    ["Docker", "/content/sr_mayor.md"],
+#    ["Docker", "/content/sr_mayor.md"],
   ]
